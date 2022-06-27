@@ -1,2 +1,4 @@
 # 6.hafta.pazartesi.odevi
-https://github.com/ulkulekci/Turkcell_JavaSe_odevler
+Palindrom kelime kontrolü
+Süper sayı olup olmama kontrolü
+Recursive prime number
